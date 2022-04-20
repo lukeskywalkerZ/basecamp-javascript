@@ -15,3 +15,5 @@ usuarios.set('Lucas', 'Admin')
 usuarios.set('Tadeu', 'Admin')
 usuarios.set('Marcos', 'User')
 usuarios.set('Ednilson', 'Admin')
+
+console.log(getAdmins(usuarios))
